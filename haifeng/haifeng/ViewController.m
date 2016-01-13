@@ -30,6 +30,10 @@
     NSLog(@"海风");
     NSLog(@"海风");
     
+    
+    NSLog(@"依然那么孤傲");
+    NSLog(@"以为自己很洒脱");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
