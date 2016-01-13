@@ -23,6 +23,12 @@
         NSLog(@"老虎陪大象");
         NSLog(@"老虎陪大象");
         NSLog(@"老虎陪大象");
+    NSLog(@"海风");
+    NSLog(@"海风");
+    NSLog(@"海风");
+    NSLog(@"海风");
+    NSLog(@"海风");
+    NSLog(@"海风");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
