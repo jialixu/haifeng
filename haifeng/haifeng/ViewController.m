@@ -16,6 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"老虎陪大象");
+    NSLog(@"老虎陪大象");
+        NSLog(@"老虎陪大象");
+        NSLog(@"老虎陪大象");
+        NSLog(@"老虎陪大象");
+        NSLog(@"老虎陪大象");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
